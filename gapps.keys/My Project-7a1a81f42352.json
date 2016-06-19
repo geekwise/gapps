@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vital-octagon-134523",
+  "private_key_id": "7a1a81f423522706394bec6456efd0ae6da5e116",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCa0VJMEc/t1hsp\nHvAfvPl033UHNcjeFj6m/0+FEvBof/gOVaRVcG/a2VI5HhjgvrII0WHhSjrJPTQU\nRF5GQuCNdHZwWCHjzcDdEyjH3YLrJpQic8qbfuPSo0GcJ6mE+m5sujJtaXkMmhxI\nuHawJbL2LGJas89b7cJ22HqD51ZjWJgz96IM8s+qea9x+sEv6HRDLs+EOuhPynVl\nVTk1/VBF2R0nu3+wdkBVDloAyoF0deQsKy2YyYOb3XoI+PKom1J1Vctqrg+QRF5m\n9q4CO6g1Zexoc+xNtf0OYM8+iz9OlfNrJG2+IFkzSRo8l7HaszfsSLXyEGcjxMs8\nxFK35P+/AgMBAAECggEBAJZ9bKsHEYCWhDZXnYCseCw0XpTQol3Hb8VzHgA0Jb7e\nzehZNXHb5s7sOvHMoNAube8GYUfWmQgu1yXwQ1e3AIJgOBUChobi5VvAmP6XAwDD\nsnE+7y5xjNGe4lMBdtYNfTNxVz1lrkYis+W4cZ7ONoT3JfAXIzSwDDzsN0Nqp13P\nJYBHfmM7YM7GtDmuNRVeP21inZE2yM7g2/xiDnBiuEuMQ9duKKHUVfkqNzp7uH5B\nVpL+MSLCLhzO7dZw7n+Kooi2/W4My4KfIr3FX2grxpF/AgOkJy5uNqmq24L5H9jM\nU/Gku8CpFaH5rlOeal+knUwtGtQVbAmxlFJvZaxQtdkCgYEA4lyapzdXeVHzqF++\naUvC/d2L8jxl6bg3CJHraRQTkSn8PZQ41+btmnxYo5pIHhsQF2LhsnXE9WbBN+wQ\nlm/bthI3WujRSqtj8e3QifYKkcEyf7odAm/RyWBhlmNCQhL5rnxdbLZTazRqzuik\nn3u5zrB4ImNl7HHXn9TrnyrL190CgYEArxajjfEKzISTmSGFO3QtSZFenjTgDrIX\nZ+8vZ4168fAknU3QKAnXov/Yb1qptZzMCCeUHtsKb2OzctT+O7na5HAZw+6AkuwL\nCODoI2gP/whp6uygPYB+zl6CLEiGrqm6s9wybwIAn23f78XQvM7xQfpAPTPWmSB4\nMb4oTtDkqksCgYALZsivZX01cihIsdHgcd13dgJHiD1F4W58MwVdfJJjvG6lF2Mp\nlMsg/eRlES9SvOA5nVRq7b2m8q8GxxAq06WIbTB2lsV78lgNZoIbgNYVc1q8zj4J\n0mIJt54SuhsrQtNqs37tK93Vx4UduOAZ3FyGiaLzcHhAyZcnyMy5bqlnzQKBgQCD\nENxgLddan8fpcplMlzwrfSGqJoSvG4u/5uHCj7tADvcptg0jW7LLNuArA2BVLknh\ntNcBfhDCr4yuYljqFseQB4aSECC5Wu8rt0iu8IBA9mhrTrTpNR43l7G0Oppvd2jm\nqOgsBwC2V8axs4/9NqCNNisOZZa4TAENo36C+YajHwKBgQCpvSR/KALvp/iuIJmu\ngIpaoTU/dowtdCojXeFjDq4r7yqRyOOchF1ONGVbq2bBlJGfkiHur+jkWVnCcJDh\nQJ5+7u25tOuGofSnG6Bl9e4OltBDWtvpgULVmvAKHKEfj5k++tOOj3uQre+NZr9+\nDO5z0YmDbNlI2D8INDmF5IiEsA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gapps-demo@vital-octagon-134523.iam.gserviceaccount.com",
+  "client_id": "114866953852442136952",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gapps-demo%40vital-octagon-134523.iam.gserviceaccount.com"
+}
