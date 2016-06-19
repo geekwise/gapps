@@ -1,0 +1,2 @@
+
+var document = new Document();
