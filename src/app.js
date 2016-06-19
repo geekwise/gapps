@@ -23,26 +23,22 @@ function get_column_as_text( sheet_name, column_value) {
 
 
 /**
- * Set Range requires - sheet_name,range_value,cell_data
- * 
- * @param {object} sheet_name
- * @param {object} range_value
- * @param {object} cell_data
- * @set_range
+ * Search Range -- custom comment. 
+ * @param value The value to find.
+ * @param range The range to search in.
+ * @return A range pointing to the first cell containing the value, 
+ *     or null if not found.
  */
 function set_range(sheet_name,range_value,cell_data) {
   return document.set_range(sheet_name,range_value,cell_data);
 };
 
 /**
- * Search Column requires - sheet_name,column_value,search_value
- * @license
- * @preserve
- * 
- * @param {object} sheet_name
- * @param {object} column_value
- * @param {object} search_value
- * @search_column
+ * Finds a value within a given range. 
+ * @param value The value to find.
+ * @param range The range to search in.
+ * @return A range pointing to the first cell containing the value, 
+ *     or null if not found.
  */
 function search_column(sheet_name,column_value,search_value) {
   return document.search_column(sheet_name,column_value,search_value);
@@ -52,3 +48,6 @@ function search_column_index(sheet_name,column_value,search_value) {
   return document.search_column_index(sheet_name,column_value,search_value);
 };
 
+function get_tags() {
+  return document.get_tags();
+};
