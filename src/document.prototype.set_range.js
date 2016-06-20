@@ -7,6 +7,6 @@ Document.prototype.set_range = function(sheet_name,range_value,cell_data) {
     
       cell_data
     
-    ])
+    ]);
     
-}
+};
