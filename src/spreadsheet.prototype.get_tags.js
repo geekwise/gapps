@@ -1,11 +1,11 @@
-Document.prototype.get_tags = function() {
-  
+Spreadsheet.prototype.get_tags = function() {
+
   var values = SpreadsheetApp
     .getActiveSpreadsheet()
     .getActiveSheet()
     .getDataRange()
     .getValues();
 
-  return document.clean_array( values );
+  return spreadsheet.clean_array( values );
 
 };
